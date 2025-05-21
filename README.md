@@ -1,16 +1,23 @@
-## Hi there 👋
+# Augusto Min Kyu Lee | Machine Learning Engineer
 
-<!--
-**augustomklee/augustomklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Machine Learning Engineer with a focus on computer vision and deep learning algorithms. 
+Vanderbilt University Computer Science graduate experienced in developing high-precision 
+object detection models and reinforcement learning systems.
 
-Here are some ideas to get you started:
+## Core Technical Skills
+- **Machine Learning Frameworks:** PyTorch, TensorFlow, scikit-learn
+- **Computer Vision:** YOLOv5, Object Detection, Transfer Learning
+- **Reinforcement Learning:** Policy Optimization, Environment Modeling
+- **Languages:** Python, TypeScript, JavaScript, C++
+- **Web Development:** React, Astro, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🏉 [Rugby Element Detection](link) - YOLOv5 object detection system (90%+ precision)
+- 🎮 [Super Auto Pets AI](link) - Reinforcement learning system with 1M+ training steps
+- 🌐 [Vanderbilt Rugby Website](link) - Full-stack development with Astro & TypeScript
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/augusto-lee/)
+- [Portfolio Website](your-website-when-ready)
+- 📧 augusto.mk.lee@gmail.com
