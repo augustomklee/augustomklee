@@ -14,7 +14,7 @@ object detection models and reinforcement learning systems.
 
 ## Featured Projects
 
-### 🏉 [AI-Powered Rugby Element Detection](https://github.com/YOUR_USERNAME/rugby-element-detection)
+### 🏉 [AI-Powered Rugby Element Detection](https://github.com/augustomklee/rugby-element-detection)
 Object detection system using YOLOv5 for rugby analysis. Developed a model with 90%+ precision that can identify key game elements including players, referees, scrums, rucks, and more in real-time (8.8ms per image).
   
 ### 🎮 [Super Auto Pets AI](https://github.com/augustomklee/super-auto-pets-ai) - Reinforcement learning system with 1M+ training steps
