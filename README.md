@@ -24,5 +24,4 @@ Machine learning system for Super Auto Pets using reinforcement learning (PPO) a
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/augusto-lee/)
-- [Portfolio Website](your-website-when-ready)
 - 📧 augusto.mk.lee@gmail.com
