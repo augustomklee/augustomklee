@@ -1,4 +1,4 @@
-# Augusto Min Kyu Lee | Machine Learning Engineer
+# Augusto Min Kyu Lee | Full Stack & Machine Learning
 
 ## About Me
 Machine Learning Engineer with a focus on computer vision and deep learning algorithms. 
