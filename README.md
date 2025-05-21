@@ -20,7 +20,8 @@ Object detection system using YOLOv5 for rugby analysis. Developed a model with 
 ### 🎮 [Super Auto Pets AI](https://github.com/augustomklee/super-auto-pets-ai) - Reinforcement learning system with 1M+ training steps
 Machine learning system for Super Auto Pets using reinforcement learning (PPO) and computer vision. Developed a coaching system that provides strategic recommendations based on game state analysis.
 
-### 🌐 [Vanderbilt Rugby Website](link) - Full-stack development with Astro & TypeScript
+### 🌐 [Vanderbilt Rugby Official Website](https://github.com/augustomklee/VanderbiltRugby)
+Official team website built with Astro framework and TypeScript featuring responsive design, team roster management, match schedules, and media galleries. Implemented modern web development practices with component-based architecture and optimized performance.
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/augusto-lee/)
