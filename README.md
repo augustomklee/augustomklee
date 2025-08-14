@@ -23,6 +23,9 @@ Machine learning system for Super Auto Pets using reinforcement learning (PPO) a
 ### 🌐 [Vanderbilt Rugby Official Website](https://github.com/augustomklee/VanderbiltRugby) – Team site built with Astro and TypeScript
 Official team website built with Astro framework and TypeScript featuring responsive design, team roster management, match schedules, and media galleries. Implemented modern web development practices with component-based architecture and optimized performance.
 
+### 🦜 [OpenAI API Integration Translation APp](https://github.com/augustomklee/PollyGlot/tree/main)) – Web app built with JavaScript
+PollyGlot is a browser-based translation application that provides real-time text translation into French, Spanish, and Japanese. The app features a clean, parrot-themed interface with an intuitive chat-like experience for translations.
+
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/augusto-lee/)
 - 📧 augusto.mk.lee@gmail.com
