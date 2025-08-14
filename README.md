@@ -10,7 +10,7 @@ object detection models and reinforcement learning systems.
 - **Computer Vision:** YOLOv5, Object Detection, Transfer Learning
 - **Reinforcement Learning:** Policy Optimization, Environment Modeling
 - **Languages:** Python, TypeScript, JavaScript, C++
-- **Web Development:** React, Astro, Node.js
+- **Web Development:** HTML, CSS, React, Astro, Node.js
 
 ## Featured Projects
 
