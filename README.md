@@ -14,6 +14,9 @@ object detection models and reinforcement learning systems.
 
 ## Featured Projects
 
+### 🍿 [AI-Powered Movie Recommendation System](https://github.com/augustomklee/PopChoice) - Combines modern AI techniques to create an intelligent movie recommendation experience
+A semantic search-based movie recommendation engine that uses vector embeddings and Retrieval-Augmented Generation (RAG).
+
 ### 🏉 [AI-Powered Rugby Element Detection](https://github.com/augustomklee/rugby-element-detection) - Real-time object detection with 90%+ precision
 Object detection system using YOLOv5 for rugby analysis. Developed a model with 90%+ precision that can identify key game elements including players, referees, scrums, rucks, and more in real-time (8.8ms per image).
   
