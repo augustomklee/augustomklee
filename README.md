@@ -17,6 +17,9 @@ object detection models and reinforcement learning systems.
 ### 🍿 [AI-Powered Movie Recommendation System](https://github.com/augustomklee/PopChoice) - Combines modern AI techniques to create an intelligent movie recommendation experience
 A semantic search-based movie recommendation engine that uses vector embeddings and Retrieval-Augmented Generation (RAG).
 
+### 🇧🇷 [Brazil Travel Recommendation System](https://github.com/augustomklee/Where2Brazil(https://github.com/augustomklee/Where2Brazil) – AI-powered travel recommendation app built with React and Vite
+Personalized travel recommendation application built with React 19 and Vite featuring an interactive quiz system, Google Generative AI integration, and intelligent destination matching. Implemented modern web development practices with component-based architecture, progressive state management, and responsive design optimized for discovering perfect Brazilian travel destinations.
+
 ### 🏉 [AI-Powered Rugby Element Detection](https://github.com/augustomklee/rugby-element-detection) - Real-time object detection with 90%+ precision
 Object detection system using YOLOv5 for rugby analysis. Developed a model with 90%+ precision that can identify key game elements including players, referees, scrums, rucks, and more in real-time (8.8ms per image).
   
@@ -26,8 +29,6 @@ Machine learning system for Super Auto Pets using reinforcement learning (PPO) a
 ### 🌐 [Vanderbilt Rugby Official Website](https://github.com/augustomklee/VanderbiltRugby) – Team site built with Astro and TypeScript
 Official team website built with Astro framework and TypeScript featuring responsive design, team roster management, match schedules, and media galleries. Implemented modern web development practices with component-based architecture and optimized performance.
 
-### 🦜 [OpenAI API Integration Translation App](https://github.com/augustomklee/PollyGlot/tree/main)) – Web app built with JavaScript
-PollyGlot is a browser-based translation application that provides real-time text translation into French, Spanish, and Japanese. The app features a clean, parrot-themed interface with an intuitive chat-like experience for translations.
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/augusto-lee/)
