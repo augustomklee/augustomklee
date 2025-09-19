@@ -17,7 +17,7 @@ object detection models and reinforcement learning systems.
 ### 🍿 [AI-Powered Movie Recommendation System](https://github.com/augustomklee/PopChoice) - Combines modern AI techniques to create an intelligent movie recommendation experience
 A semantic search-based movie recommendation engine that uses vector embeddings and Retrieval-Augmented Generation (RAG).
 
-### 🇧🇷 [Brazil Travel Recommendation System](https://github.com/augustomklee/Where2Brazil(https://github.com/augustomklee/Where2Brazil) – AI-powered travel recommendation app built with React and Vite
+### 🇧🇷 [Brazil Travel Recommendation System](https://github.com/augustomklee/Where2Brazil) – AI-powered travel recommendation app built with React and Vite
 Personalized travel recommendation application built with React 19 and Vite featuring an interactive quiz system, Google Generative AI integration, and intelligent destination matching. Implemented modern web development practices with component-based architecture, progressive state management, and responsive design optimized for discovering perfect Brazilian travel destinations.
 
 ### 🏉 [AI-Powered Rugby Element Detection](https://github.com/augustomklee/rugby-element-detection) - Real-time object detection with 90%+ precision
