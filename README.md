@@ -1,18 +1,46 @@
 # Augusto Min Kyu Lee | Full Stack & Machine Learning
 
 ## About Me
-Machine Learning Engineer with a focus on computer vision and deep learning algorithms. 
-Vanderbilt University Computer Science graduate experienced in developing high-precision 
-object detection models and reinforcement learning systems.
+I'm an ambitious fullstack developer with a passion for building intelligent, data-driven applications that solve real-world problems. My portfolio showcases a strong foundation in both frontend and backend development, with particular expertise in Node.js, React, and AI integration. I thrive on challenging projects that push the boundaries of modern web development—from building custom HTTP servers from scratch to implementing machine learning systems and real-time data streaming.
+What sets me apart is my ability to bridge the gap between cutting-edge AI technologies and practical web applications. Whether it's implementing semantic search with vector embeddings, integrating LLMs for personalized recommendations, or developing computer vision systems, I bring a unique combination of AI literacy and solid software engineering fundamentals. I'm driven by curiosity, constantly learning new technologies, and committed to writing clean, maintainable code that scales.
+Core Technical Skills
+Frontend Development
 
-## Core Technical Skills
-- **Machine Learning Frameworks:** PyTorch, TensorFlow, scikit-learn
-- **Computer Vision:** YOLOv5, Object Detection, Transfer Learning
-- **Reinforcement Learning:** Policy Optimization, Environment Modeling
-- **Languages:** Python, TypeScript, JavaScript, C++
-- **Web Development:** HTML, CSS, React, Astro, Node.js
+React & Modern JavaScript: Proficient in React 19 with hooks, component-based architecture, and state management. Built multiple production-ready SPAs with responsive design and optimized user experiences
+Modern Build Tools: Experienced with Vite, Astro, and modern bundling/optimization techniques for fast, performant web applications
+TypeScript: Strong typing and type-safe development practices for scalable codebases
+UI/UX Implementation: Responsive design, progressive state management, and interactive user interfaces
+
+## Backend Development
+
+Node.js Fundamentals: Deep understanding of core Node.js concepts including custom HTTP servers, stream-based processing, event-driven architecture, and async/await patterns
+API Development: Built RESTful APIs with proper error handling, input sanitization, and security best practices
+Real-time Communication: Implemented Server-Sent Events (SSE) for live data streaming and real-time updates
+File System Operations: Advanced fs/promises usage, automated document generation with PDFKit
+
+## Database & Data Management
+
+Data Modeling: Transaction management, secure data storage, and efficient query patterns
+File-based Systems: JSON data handling, async file operations, and data persistence strategies
+
+## AI & Machine Learning Integration
+
+LLM Integration: Experience with Google Generative AI and RAG (Retrieval-Augmented Generation) architectures
+Vector Embeddings: Semantic search implementation using embedding-based similarity matching
+Computer Vision: Trained custom YOLOv5 models achieving 90%+ precision for object detection
+Reinforcement Learning: Built training pipelines with PPO algorithms and 1M+ training steps
+
+## Additional Technical Competencies
+
+API Integration: Third-party service integration and data pipeline construction
+Performance Optimization: Stream processing, efficient algorithms, and resource management
+Security: Input validation, sanitization, and secure application design
+Modern Web Standards: Progressive enhancement, accessibility, and cross-browser compatibility
 
 ## Featured Projects
+
+### [GoldDigger](https://github.com/augustomklee/GoldDigger/blob/main/README.md) – Real-time gold investment tracker with automated PDF reporting built with vanilla Node.js
+Real-time gold investment tracking application built with pure Node.js HTTP module featuring Server-Sent Events for live price streaming, automated PDF report generation with PDFKit, and secure transaction management. Implemented custom HTTP server without frameworks, demonstrating advanced Node.js fundamentals including stream-based request parsing, async file operations with fs/promises, input sanitization, and event-driven architecture for professional investment tracking and analysis.
 
 ### 🍿 [AI-Powered Movie Recommendation System](https://github.com/augustomklee/PopChoice) - Combines modern AI techniques to create an intelligent movie recommendation experience
 A semantic search-based movie recommendation engine that uses vector embeddings and Retrieval-Augmented Generation (RAG).
