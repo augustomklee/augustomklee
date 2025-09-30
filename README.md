@@ -39,7 +39,7 @@ Modern Web Standards: Progressive enhancement, accessibility, and cross-browser 
 
 ## Featured Projects
 
-### [GoldDigger](https://github.com/augustomklee/GoldDigger/blob/main/README.md) – Real-time gold investment tracker with automated PDF reporting built with vanilla Node.js
+### 💰 [GoldDigger](https://github.com/augustomklee/GoldDigger/blob/main/README.md) – Real-time gold investment tracker with automated PDF reporting built with vanilla Node.js
 Real-time gold investment tracking application built with pure Node.js HTTP module featuring Server-Sent Events for live price streaming, automated PDF report generation with PDFKit, and secure transaction management. Implemented custom HTTP server without frameworks, demonstrating advanced Node.js fundamentals including stream-based request parsing, async file operations with fs/promises, input sanitization, and event-driven architecture for professional investment tracking and analysis.
 
 ### 🍿 [AI-Powered Movie Recommendation System](https://github.com/augustomklee/PopChoice) - Combines modern AI techniques to create an intelligent movie recommendation experience
