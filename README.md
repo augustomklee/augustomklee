@@ -3,8 +3,8 @@
 ## About Me
 I'm an ambitious fullstack developer with a passion for building intelligent, data-driven applications that solve real-world problems. My portfolio showcases a strong foundation in both frontend and backend development, with particular expertise in Node.js, React, and AI integration. I thrive on challenging projects that push the boundaries of modern web development—from building custom HTTP servers from scratch to implementing machine learning systems and real-time data streaming.
 What sets me apart is my ability to bridge the gap between cutting-edge AI technologies and practical web applications. Whether it's implementing semantic search with vector embeddings, integrating LLMs for personalized recommendations, or developing computer vision systems, I bring a unique combination of AI literacy and solid software engineering fundamentals. I'm driven by curiosity, constantly learning new technologies, and committed to writing clean, maintainable code that scales.
-Core Technical Skills
-Frontend Development
+
+## Frontend Development
 
 React & Modern JavaScript: Proficient in React 19 with hooks, component-based architecture, and state management. Built multiple production-ready SPAs with responsive design and optimized user experiences
 Modern Build Tools: Experienced with Vite, Astro, and modern bundling/optimization techniques for fast, performant web applications
