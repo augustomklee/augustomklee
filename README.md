@@ -4,7 +4,7 @@ I'm a software engineer based in São Paulo, Brazil, building internal tools and
 
 I also manage the technology infrastructure behind it: **Jenkins** CI/CD pipelines, **RabbitMQ**, **RedisStack**, **SQL Server**, and **Docker Swarm**.
 
-Outside of work I'm drawn to whatever I don't yet understand. Lately that means learning **Astro**, **TypeScript**, and **Tailwind** by building [augustomklee.com](augustomklee.com) from scratch.
+Outside of work I'm drawn to whatever I don't yet understand. Lately that means learning **Astro**, **TypeScript**, and **Tailwind** by building [my personal site](https://augustomklee.com) from scratch.
 
 I care about writing software that's clear, simple, and honest about what it does.
 
